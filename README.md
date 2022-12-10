@@ -1,9 +1,8 @@
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnvd26&layout=compact)
-
-([<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F7DF1E" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor])
-([<img src="[https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=F7DF1E]" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor])
+<p align="center">
+  <img src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker%20-%2300D9FF.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/benjaminadida">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
