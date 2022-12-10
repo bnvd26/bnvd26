@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%2300D9FF.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linux%20-%2300D9FF.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <a target="_blank" href="https://www.linkedin.com/in/benjaminadida">
