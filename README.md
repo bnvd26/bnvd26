@@ -1,4 +1,6 @@
-![Les Stats GitHub de bnvd26](https://github-readme-stats.vercel.app/api?username=bnvd26&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnvd26&layout=compact)]
 
 
 <a target="_blank" href="https://www.linkedin.com/in/benjaminadida">
